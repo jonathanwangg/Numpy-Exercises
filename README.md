@@ -4,4 +4,4 @@
 
 Currently completed exercises:
 
-- 1 to 6
+- 1 to 18
